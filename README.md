@@ -1,1 +1,1 @@
-# OurEye-Blogs
+# OurEye.ai - Blog
